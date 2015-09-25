@@ -1,0 +1,38 @@
+/* CSS Document */
+body {
+  padding-top: 70px;
+}
+
+/* navbar */
+.navbar-default {
+    background-color: #DFDFDF;
+    border-color: #E7E7E7;
+	border-bottom:#1CC609 10px solid;
+}
+/* title */
+.navbar-default .navbar-brand {
+    color: #06C;
+	font-size:36px;
+	font-weight:800;
+}
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+    color: #5E5E5E;
+}
+/* link */
+.navbar-default .navbar-nav > li > a {
+    color: #777;
+}
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+    color: #333;
+}
+
+
+#footer{
+	margin-top:60px;
+	background-color:#DFDFDF;
+	border-top:#4FA7FF 5px solid;
+	padding:15px;
+	height:70px;
+}
